@@ -1,0 +1,15 @@
+Create a folder with all your questions
+
+cd : go into the directory and open terminal
+do git init .
+clone : git clone https://your url of github
+
+git config user.name <username>
+git config user.email <email>
+
+git add .
+git commit -m "description"
+git push -u origin master
+
+
+use your prn to create your repository on github

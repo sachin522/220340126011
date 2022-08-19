@@ -1,0 +1,16 @@
+ThinksBoard Steps-
+
+1.login on thingsboard- use username and password
+2.click on devices->create devices->enter name->enter label->create crenditial
+3.add credential->write token->add
+4.click on collection->new->select post->enter url in url put your token access code
+5.hedears->key->write content-type(choose option)
+6.body->to write json data
+7.send 
+8.see result 200 is successfully send data
+9.on things board-select device->latest telementry
+10.select any parameter->show on widget->select presentation like chart,gauge
+11.add dashboard
+12.create new dashboard(any name given)
+13.select open dashboard
+14.add 

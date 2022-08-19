@@ -1,0 +1,16 @@
+IAM User steps:
+
+1. aws console
+2. Go to services->IAM
+3. users -> add user -> set user name
+4. Select AWS credential type->Access key - Programmatic access
+   ->Password - AWS Management Console access
+   Console password->Custom password
+5. set permission boundry ->Use a permissions boundary to control the maximum user permissions
+6. select EC2 - EC2 full access
+7. Attach existing policies directly
+   ->select AWS Lamda full access
+8. Enter key and value (optional)
+9. create user
+
+
